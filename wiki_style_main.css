@@ -39,3 +39,10 @@ body{
     text-decoration: underline;
 
 }
+.article{
+    background-color:rgb(244, 244, 236);
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 5px;
+    margin: 5px;
+}
